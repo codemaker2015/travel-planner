@@ -2,6 +2,8 @@
 
 This project is a multi-agent Travel Planner powered by the **A2A (Agent-to-Agent)** protocol. It uses LangChain, Ollama LLM, and multiple A2A-compatible agents to collaboratively fetch weather data, search results, and generate a final travel recommendation.
 
+![demo](demo/demo_short.gif)
+
 ---
 
 ### 🚀 Features
